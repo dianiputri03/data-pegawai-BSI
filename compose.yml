@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: 'postgres:latest'
+    environment:
+      - 'POSTGRES_DB=dataPegawai'
+      - 'POSTGRES_PASSWORD=123'
+      - 'POSTGRES_USER=dian'
+    ports:
+      - '5432:5432'

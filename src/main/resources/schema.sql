@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS Pegawai (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(250) NOT NULL,
+    email VARCHAR(250) NOT NULL,
+    tgl_lahir DATE NOT NULL,
+    telp VARCHAR(15) NOT NULL,
+    posisi VARCHAR(100) NOT NULL,
+    role VARCHAR(100) NOT NULL,
+    grup VARCHAR(100) NOT NULL,
+    department VARCHAR(100) NOT NULL,
+    lokasi_kerja VARCHAR(100) NOT NULL
+);
+

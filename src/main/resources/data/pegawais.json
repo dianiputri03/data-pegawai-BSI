@@ -1,0 +1,137 @@
+{
+  "pegawais": [
+    {
+      "id": 1,
+      "name": "Diani Putri",
+      "email": "dianiputri0309@gmail.com",
+      "tgl_lahir": "2001-09-03",
+      "telp": "082391897168",
+      "posisi": "Officer",
+      "role": "Back End Developer",
+      "grup": "IDG",
+      "department": "Customer Banking Platform",
+      "lokasi_kerja": "Jakarta"
+    },
+    {
+      "id": 2,
+      "name": "Rosyiidah dhiya ulhaq",
+      "email": "rossi@gmail.com",
+      "tgl_lahir": "2001-09-03",
+      "telp": "082391897168",
+      "posisi": "Officer",
+      "role": "Back End Developer",
+      "grup": "IDG",
+      "department": "Customer Banking Platform",
+      "lokasi_kerja": "Jakarta"
+    },
+    {
+      "id": 3,
+      "name": "Tsany Ahimsa Rijalu",
+      "email": "rossi@gmail.com",
+      "tgl_lahir": "2001-09-03",
+      "telp": "082391897168",
+      "posisi": "Officer",
+      "role": "Back End Developer",
+      "grup": "IDG",
+      "department": "Customer Banking Platform",
+      "lokasi_kerja": "Jakarta"
+    },
+    {
+      "id": 4,
+      "name": "Dzulfiqar rafli anwar",
+      "email": "rossi@gmail.com",
+      "tgl_lahir": "2001-09-03",
+      "telp": "082391897168",
+      "posisi": "Officer",
+      "role": "Back End Developer",
+      "grup": "IDG",
+      "department": "Customer Banking Platform",
+      "lokasi_kerja": "Jakarta"
+    },
+    {
+      "id": 5,
+      "name": "Saladin effendi",
+      "email": "saladin@gmail.com",
+      "tgl_lahir": "2001-09-03",
+      "telp": "082391897168",
+      "posisi": "Direktur IT",
+      "role": "Direktur IT",
+      "grup": "IT",
+      "department": "IT",
+      "lokasi_kerja": "Jakarta"
+    },
+    {
+      "id": 6,
+      "name": "M Akbar",
+      "email": "akbar@gmail.com",
+      "tgl_lahir": "2001-09-03",
+      "telp": "082391897168",
+      "posisi": "DH",
+      "role": "DH",
+      "grup": "IDG",
+      "department": "Customer Banking Platform",
+      "lokasi_kerja": "Jakarta"
+    },
+    {
+      "id": 7,
+      "name": "Rino rachmat",
+      "email": "rino@gmail.com",
+      "tgl_lahir": "2001-09-03",
+      "telp": "082391897168",
+      "posisi": "DH",
+      "role": "DH",
+      "grup": "ISG",
+      "department": "IT Vendor Aset",
+      "lokasi_kerja": "Jakarta"
+    },
+    {
+      "id": 8,
+      "name": "Aditya Budi",
+      "email": "adit@gmail.com",
+      "tgl_lahir": "2001-09-03",
+      "telp": "082391897168",
+      "posisi": "DH",
+      "role": "DH",
+      "grup": "CISO",
+      "department": "IT Service Desk",
+      "lokasi_kerja": "Jakarta"
+    },
+    {
+      "id": 10,
+      "name": "tes",
+      "email": "adit@gmail.com",
+      "tgl_lahir": "2001-09-03",
+      "telp": "082391897168",
+      "posisi": "DH",
+      "role": "DH",
+      "grup": "CISO",
+      "department": "IT Service Desk",
+      "lokasi_kerja": "Jakarta"
+    },
+    {
+      "id": 11,
+      "name": "tes",
+      "email": "adit@gmail.com",
+      "tgl_lahir": "2001-09-03",
+      "telp": "082391897168",
+      "posisi": "DH",
+      "role": "DH",
+      "grup": "CISO",
+      "department": "IT Service Desk",
+      "lokasi_kerja": "Jakarta"
+    },
+    {
+      "id": 12,
+      "name": "tes",
+      "email": "adit@gmail.com",
+      "tgl_lahir": "2001-09-03",
+      "telp": "082391897168",
+      "posisi": "DH",
+      "role": "DH",
+      "grup": "CISO",
+      "department": "IT Service Desk",
+      "lokasi_kerja": "Jakarta"
+    }
+  ]
+
+}
